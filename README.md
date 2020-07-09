@@ -1,4 +1,4 @@
-### Hi there 👋  F
+### Hi there! 👋 
 
 
 - 🔭 I’m currently working on Diacon Technologies
