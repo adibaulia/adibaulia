@@ -10,3 +10,7 @@
   - instagram: @adibaulia
 - ⚡ Fun fact: 
   - i'm totally tall person in my country, it's so difficult to get shoes size that fit on my legs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibaulia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![adib's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibaulia&layout=compact&show_icons=true&theme=dracula&count_private=true)
